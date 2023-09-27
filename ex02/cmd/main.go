@@ -23,7 +23,6 @@ func Execute() (string, error) {
 
 var (
 	intType    bool
-	floatType  bool
 	stringType bool
 	mixType    bool
 )
